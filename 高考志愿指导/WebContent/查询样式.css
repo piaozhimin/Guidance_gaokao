@@ -1,0 +1,62 @@
+@CHARSET "UTF-8";
+body{
+	background-color:#5CADAD;
+}
+.body_colors{
+		float:right;
+}
+.body_colors input{
+	border:1;
+	border-color:white;
+	height:20px;
+	width:20px;
+}
+h1{
+	text-shadow: 5px 5px 5px 	#804040;
+	text-align:center;
+}
+
+.province,.txt_color{
+	color:	#BEBEBE;
+}
+.shuoming{
+	color:	#FF0000;
+}
+
+.div_select{
+	text-align:center;
+}
+.cla_pro{
+	display:none;
+}
+
+.cla_pro_zimu{
+	width:210px;
+	background-color:#E0E0E0;
+}
+.cla_pro_name{
+	width:210px;
+	height:100px;
+	border:1;
+	background-color:#E0E0E0;
+}	
+.cla_pro_zimu input{
+	border:1;
+	border-color:	#F0F0F0;
+	background-color:#E0E0E0;
+	border-bottom-width:0;
+	border-left-width:0;
+	border-top:0;
+}
+.cla_pro_name input{
+	border:0;
+	background-color:#E0E0E0;
+}
+.cla_pro_name div{
+	display:none;
+}
+.STYLE13{
+	text-align:center;
+	color:#AE0000;
+	font-weight:bold;
+}
